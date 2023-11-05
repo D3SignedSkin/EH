@@ -57,15 +57,15 @@ Also, if desired, you can provide [support <3](https://www.donationalerts.com/r/
 
 
 ## Demo
-![1](demo/1.jpg)
-![2](demo/2.jpg)
-![3](demo/3.jpg)
-![4](demo/4.jpg)
-![5](demo/5.jpg)
-![6](demo/6.jpg)
-![7](demo/7.jpg)
-![8](demo/8.jpg)
-![9](demo/9.jpg)
+![1]
+![2]
+![3]
+![4]
+![5]
+![6]
+![7]
+![8]
+![9]
 
 ## Getting Started
 
