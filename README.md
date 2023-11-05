@@ -167,4 +167,3 @@ This project is under `MIT License` - see the LICENSE file for details.
 
 ## Contact
 
-If you have any questions, feel free to reach out to me at `rubranny@gmail.com`
