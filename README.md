@@ -167,3 +167,4 @@ This project is under `MIT License` - see the LICENSE file for details.
 
 ## Contact
 
+Discord : amnesiafr 
