@@ -1,11 +1,11 @@
 <h1 align="center">Project-Zomboid-EtherHack</h1>
 <img src="demo/EtherLogo.png" alt="EtherHack Logo">
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/Quzile/Project-Zomboid-EtherHack" alt="GitHub release (latest by date)">
-  <img src="https://img.shields.io/github/license/Quzile/Project-Zomboid-EtherHack" alt="GitHub">
-  <img src="https://img.shields.io/github/commit-activity/t/Quzile/Project-Zomboid-EtherHack" alt="GitHub commit activity (branch)">
+  <img src="https://img.shields.io/github/v/release/D3SignedSkin/Project-Zomboid-EtherHack" alt="GitHub release (latest by date)">
+  <img src="https://img.shields.io/github/license/D3SignedSkin/Project-Zomboid-EtherHack" alt="GitHub">
+  <img src="https://img.shields.io/github/commit-activity/t/D3SignedSkin/Project-Zomboid-EtherHack" alt="GitHub commit activity (branch)">
   <img src="https://img.shields.io/badge/Java-17-red" alt="Java 17">
-  <img src="https://img.shields.io/github/issues/Quzile/Project-Zomboid-EtherHack" alt="GitHub issues">
+  <img src="https://img.shields.io/github/issues/D3SignedSkin/Project-Zomboid-EtherHack" alt="GitHub issues">
 </p>
 
 This is a cheat written in Java(API) and LUA(GUI) for Project Zomboid. It is aimed at providing the game with additional functionality that allows users to get some benefits. Please use responsibly and understand the consequences that may arise as a result of improper use.
@@ -13,7 +13,7 @@ The performance of the cheat was tested on the latest version of the game `41.78
 
 You can watch the cheat [installation video](https://www.youtube.com/watch?v=Olx7O3HyeZc) and see its main functions in action.
 
-Also, if desired, you can provide [support <3](https://www.donationalerts.com/r/quzile)
+Also, if desired, you can provide [support <3]
 
 ## Table of Contents
 - [Cheat functionality](#cheat-functionality)
