@@ -1,11 +1,7 @@
 <h1 align="center">Project-Zomboid-EtherHack</h1>
 <img src="demo/EtherLogo.png" alt="EtherHack Logo">
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/D3SignedSkin/Project-Zomboid-EtherHack" alt="GitHub release (latest by date)">
-  <img src="https://img.shields.io/github/license/D3SignedSkin/Project-Zomboid-EtherHack" alt="GitHub">
-  <img src="https://img.shields.io/github/commit-activity/t/D3SignedSkin/Project-Zomboid-EtherHack" alt="GitHub commit activity (branch)">
-  <img src="https://img.shields.io/badge/Java-17-red" alt="Java 17">
-  <img src="https://img.shields.io/github/issues/D3SignedSkin/Project-Zomboid-EtherHack" alt="GitHub issues">
+  <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
 This is a cheat written in Java(API) and LUA(GUI) for Project Zomboid. It is aimed at providing the game with additional functionality that allows users to get some benefits. Please use responsibly and understand the consequences that may arise as a result of improper use.
